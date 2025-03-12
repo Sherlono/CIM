@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131031114502",
+    "project_id": "maqueta-agua",
+    "storage_bucket": "maqueta-agua.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131031114502:android:4ac11c4b3d22c4ba57f487",
+        "android_client_info": {
+          "package_name": "com.javigames.maquetaagua"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgZ1ngseo84kx8yX6eAXxN1FmHZD8V-58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
