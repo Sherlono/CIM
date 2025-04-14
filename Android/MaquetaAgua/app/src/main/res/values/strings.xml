@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">MaquetaAgua</string>
-    <string name="Texto">¿Que valor desea enviar?</string>
-    <string name="lowerlimit">0</string>
-    <string name="higherlimit">100</string>
-    <string name="botonEnviar">Enviar</string>
-</resources>
