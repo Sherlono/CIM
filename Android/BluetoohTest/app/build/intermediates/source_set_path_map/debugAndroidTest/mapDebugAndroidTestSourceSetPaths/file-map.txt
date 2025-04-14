@@ -1,0 +1,5 @@
+com.javigames.bluetoohtest.test.app-core-1.6.1-0 C:\Users\I9-10900KF\.gradle\caches\transforms-4\6830a08a238b54d0dac17148d16fdb04\transformed\core-1.6.1\res
+com.javigames.bluetoohtest.test.app-androidTest-1 C:\Users\I9-10900KF\Desktop\Javi\BluetoohTest\app\build\generated\res\resValues\androidTest\debug
+com.javigames.bluetoohtest.test.app-mergeDebugAndroidTestResources-2 C:\Users\I9-10900KF\Desktop\Javi\BluetoohTest\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.javigames.bluetoohtest.test.app-mergeDebugAndroidTestResources-3 C:\Users\I9-10900KF\Desktop\Javi\BluetoohTest\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.javigames.bluetoohtest.test.app-debugAndroidTest-4 C:\Users\I9-10900KF\Desktop\Javi\BluetoohTest\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

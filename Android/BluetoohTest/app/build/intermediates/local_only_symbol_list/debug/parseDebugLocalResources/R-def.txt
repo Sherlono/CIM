@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id IdBtn1
+id IdBtn2
+id IdBtn3
+id IdBtn4
+id IdBtnBuscar
+id IdBtnConectar
+id IdBtnDesconectar
+id IdBtnRequest
+id IdMySpinner
+id IdTextRequest
+id main
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.BluetoohTest
+style Theme.BluetoohTest
+xml backup_rules
+xml data_extraction_rules

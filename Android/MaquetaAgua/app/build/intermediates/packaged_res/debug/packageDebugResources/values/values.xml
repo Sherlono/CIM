@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="Texto">¿Que valor desea enviar?</string>
+    <string name="app_name">MaquetaAgua</string>
+    <string name="botonEnviar">Enviar</string>
+    <string name="gcm_defaultSenderId" translatable="false">131031114502</string>
+    <string name="google_api_key" translatable="false">AIzaSyDgZ1ngseo84kx8yX6eAXxN1FmHZD8V-58</string>
+    <string name="google_app_id" translatable="false">1:131031114502:android:4ac11c4b3d22c4ba57f487</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDgZ1ngseo84kx8yX6eAXxN1FmHZD8V-58</string>
+    <string name="google_storage_bucket" translatable="false">maqueta-agua.firebasestorage.app</string>
+    <string name="higherlimit">100</string>
+    <string name="lowerlimit">0</string>
+    <string name="project_id" translatable="false">maqueta-agua</string>
+    <style name="Base.Theme.MaquetaAgua" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.MaquetaAgua" parent="Base.Theme.MaquetaAgua"/>
+</resources>
